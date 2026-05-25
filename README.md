@@ -1,6 +1,4 @@
-# Love Question Script
-
-A simple interactive Python prank script that asks the user a playful question and reacts based on their answers.
+A simple interactive Python script that asks the user a playful question and reacts based on their answers.
 
 This script creates a short console interaction with multiple possible outcomes, ending with a **Blue Screen of Death (BSOD)** if the final negative response is confirmed.
 
